@@ -6,9 +6,8 @@ Projeto de automação de testes End-to-End (E2E) desenvolvido no UiPath Studio 
 
 ## 🎬 Demonstração
 
-![Demonstração do Robô](docs/demo.gif)
+![Demonstração do Robô](docs/sauceDemo_E2E.mp4)
 
-*(Caso o seu arquivo de vídeo esteja em outro formato, como .mp4, você também pode arrastar e soltar o vídeo diretamente na edição do README no GitHub)*
 
 ---
 
