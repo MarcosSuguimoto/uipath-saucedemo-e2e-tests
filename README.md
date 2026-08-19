@@ -37,5 +37,5 @@ O robô realiza as seguintes etapas de forma totalmente automatizada:
 
 1. Certifique-se de ter o **UiPath Studio** instalado na sua máquina.
 2. Clone este repositório para o seu ambiente local:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/SauceDemo_E2E_UiPath.git](https://github.com/SEU_USUARIO/SauceDemo_E2E_UiPath.git)
+  
+https://github.com/MarcosSuguimoto/uipath-saucedemo-e2e-tests.git
