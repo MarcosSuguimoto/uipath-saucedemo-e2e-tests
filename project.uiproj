@@ -1,0 +1,6 @@
+{
+  "Name": "SauceDemo_E2E_UiPath",
+  "ProjectType": "Process",
+  "Description": "Automação E2E para login e adição de item ao carrinho no SauceDemo",
+  "MainFile": "Main.xaml"
+}

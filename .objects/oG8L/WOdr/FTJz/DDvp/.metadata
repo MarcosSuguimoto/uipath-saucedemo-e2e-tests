@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Etiqueta",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "DDvpSFj1dkSyYtp2Ypc6sA",
+  "Reference": "jDku-jEZ40yen8YgBlgROA/DDvpSFj1dkSyYtp2Ypc6sA",
+  "ParentRef": "jDku-jEZ40yen8YgBlgROA/FTJzoINZJk6zMODB9ktNVw",
+  "Created": "2026-08-19T16:09:08.1128824Z",
+  "Updated": "2026-08-19T16:09:08.1128824Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
